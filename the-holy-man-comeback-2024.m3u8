@@ -1,8 +1,1 @@
-#EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=439820,RESOLUTION=640x360,FRAME-RATE=25.000,CODECS="avc1.64001e,mp4a.40.2"
-https://stm2pat.cdn-nanaplayer.com/hls2/01/00009/dh0i7t3fmntm_n/index-v1-a1.m3u8?t=jZZl0H7tFY-ciVcCmXNNzFlXo3lxI7V3Spdgp2j9cgc&s=1736260463&e=10800&f=49115&srv=rushbx5&i=0.3&sp=0&p1=stm2pat&p2=stm2pat
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2310939,RESOLUTION=1920x1080,FRAME-RATE=25.000,CODECS="avc1.640028,mp4a.40.2"
-https://stm2pat.cdn-nanaplayer.com/hls2/01/00009/dh0i7t3fmntm_h/index-v1-a1.m3u8?t=jZZl0H7tFY-ciVcCmXNNzFlXo3lxI7V3Spdgp2j9cgc&s=1736260463&e=10800&f=49115&srv=rushbx5&i=0.3&sp=0&p1=stm2pat&p2=stm2pat
 
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=30367,RESOLUTION=640x360,CODECS="avc1.64001e",URI="https://stm2pat.cdn-nanaplayer.com/hls2/01/00009/dh0i7t3fmntm_n/iframes-v1-a1.m3u8?t=jZZl0H7tFY-ciVcCmXNNzFlXo3lxI7V3Spdgp2j9cgc&s=1736260463&e=10800&f=49115&srv=rushbx5&i=0.3&sp=0&p1=stm2pat&p2=stm2pat"
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=112898,RESOLUTION=1920x1080,CODECS="avc1.640028",URI="https://stm2pat.cdn-nanaplayer.com/hls2/01/00009/dh0i7t3fmntm_h/iframes-v1-a1.m3u8?t=jZZl0H7tFY-ciVcCmXNNzFlXo3lxI7V3Spdgp2j9cgc&s=1736260463&e=10800&f=49115&srv=rushbx5&i=0.3&sp=0&p1=stm2pat&p2=stm2pat"

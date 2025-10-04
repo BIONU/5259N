@@ -3,14 +3,4 @@
 #EXT-X-TARGETDURATION:6
 #EXT-X-MEDIA-SEQUENCE:1250
 #EXTINF:6.000000,
-http://baphoflix.duckdns.org:14688/ts/static/73397b92/73397b92.1250.ts
-#EXTINF:6.000000,
-http://baphoflix.duckdns.org:14688/ts/static/73397b92/73397b92.1251.ts
-#EXTINF:6.000000,
-http://baphoflix.duckdns.org:14688/ts/static/73397b92/73397b92.1252.ts
-#EXTINF:6.000000,
-http://baphoflix.duckdns.org:14688/ts/static/73397b92/73397b92.1253.ts
-#EXTINF:6.000000,
-http://baphoflix.duckdns.org:14688/ts/static/73397b92/73397b92.1254.ts
-#EXTINF:6.000000,
-http://baphoflix.duckdns.org:14688/ts/static/73397b92/73397b92.1255.ts
+http://duckdns.org:14688/ts/static/73397b92/73397b92.1250.ts
